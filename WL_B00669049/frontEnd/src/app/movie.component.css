@@ -1,0 +1,22 @@
+.error {background-color: #fff0f0}
+.div {
+    color: black;
+}
+.card{
+    align-content: center;
+}
+.card-title{
+    color:black;
+}
+.card-header{
+    color:black;
+}
+.card-body{
+    color: black;
+}
+.body{
+    background-color: rgb(255, 172, 86);
+}
+.row{
+    align-content: center;
+}
